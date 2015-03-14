@@ -1,2 +1,4 @@
-# Programming-Assignment-3
-Run Analysis
+ 
+# Getting and Cleaning Data
+Programming-Assignment-3
+Course ProjectRun Analysis
